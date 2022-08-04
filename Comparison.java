@@ -22,8 +22,8 @@ public class Comparison
         if (number1  > number2)
         System.out.printf("%d == %d%n", number1, number2);
 
-         if (number1 == number2)
-         
+         if (number1 < number2)
+
         System.out.printf("%d == %d%n", number1, number2);
     } 
  
